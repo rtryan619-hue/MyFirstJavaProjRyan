@@ -5,8 +5,9 @@ This Java program reads student grades from a text file named `grades.txt` and d
 ## How to Run
 1. Open the project in your Java IDE.
 2. Make sure `grades.txt` is in the project folder.
-3. Run the program.
-4. View the grades printed in the console.
+3. Insert Students names, scores, and grades in "grades.txt" folder.
+4. Run the program.
+5. View the grades printed in the console.
 
 ## Example Output
 Student Grades:
@@ -21,3 +22,5 @@ File not found!
 Ryan Thomas
 
 Updated README with lab intructions 
+
+"Insert Students names, scores, and grades in "grades.txt" folder." edit added by De'Shaunte London
