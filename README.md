@@ -25,4 +25,5 @@ Ryan Thomas
 Updated README with lab intructions. 
 
 "Insert Students names, scores, and grades in "grades.txt" folder." edit added by De'Shaunte London.
+
 This project was reviewed and edited by De'Shaunte London on GitHub.
